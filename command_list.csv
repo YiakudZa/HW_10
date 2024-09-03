@@ -1,0 +1,183 @@
+    1  python3 --version
+    2  python3 -m pip --version
+    3  python3 -m pip install --upgrade pip setuptools wheel
+    4  pip install -U scikit-learn
+    5  pip install -U scikit-learn
+    6  pip install -U scikit-learn
+    7  pip install notebook
+    8  jupyter notebook
+    9  sudo kextunload /Library/Extensions/ufsd_NTFS.kext\n\nsudo kextload /Library/Extensions/ufsd_NTFS.kext \n\n
+   10  sudo kextunload /Library/Extensions/ufsd_NTFS.kext
+   11  sudo kextunload /Library/Extensions/ufsd_NTFS.kext
+   12  sudo kextload /Library/Extensions/ufsd_NTFS.kext 
+   13  sudo kmutil load -p /Library/Extensions/ufsd_NTFS.kext
+   14  diskutil apfs list
+   15  diskutil apfs list
+   16  sudo launchctl enable system/com.paragon-software.ntfsd
+   17  sudo launchctl enable system/com.paragon-software.ntfsd
+   18  sudo launchctl enable system/com.paragon-software.ntfs.loader
+   19  xattr -rc /Applications/Oceanhorn\ 2.app && codesign --force --deep --sign - /Applications/Oceanhorn\ 2.app
+   20  /Volumes/TOSHIBA\ HDD/Музыка/Андрей\ Медоваров/Смоки/Smokie_-_Everytime_You_Go_Away_\(Cover_Of_Hall_\&amp ; exit;
+   21  /Volumes/TOSHIBA\ HDD/Ляля/Photo/iPod\ Photo\ Cache/Photo\ Database ; exit;
+   22  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   23  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   24  brew install swift
+   25  brew analytics off
+   26  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"\n
+   27  swift --version\n
+   28  /Applications/Python\ 3.12/Install\ Certificates.command ; exit;
+   29  python3-v
+   30  python3 -v
+   31  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   32  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   33  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   34  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   35  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   36  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/hello_world.py"
+   37  git add .
+   38  git log
+   39  git status
+   40  git commit -m "initial commit"
+   41  git log 
+   42  quit
+   43  quit log
+   44  q
+   45  q
+   46  git push
+   47  git add .
+   48  git commit -m "delete lesson 1 file and folder"
+   49  git push
+   50  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   51  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   52  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   53  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   54  git add .
+   55  git log
+   56  git status
+   57  git commit -m "initil commit"
+   58  git push
+   59  ssh-keygen -t ed25519 -C "kkolya59@gmail.com"
+   60  $ eval "$(ssh-agent -s)"
+   61   eval "$(ssh-agent -s)"
+   62  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   63  pbcopy < ~/.ssh/id_ed25519.pub
+   64  cd Desktop
+   65  x git clone git@github.com:YiakudZa/study-python-fastapi.git
+   66  cd desktop/
+   67  git clone git@github.com:YiakudZa/study-python-fastapi.git
+   68  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   69  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   70  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   71  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   72  git push
+   73  git log
+   74  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   75  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   76  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   77  git add
+   78  git add.
+   79  git add
+   80  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   81  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   82  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   83  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   84  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   85  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   86  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   87  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   88  /usr/local/bin/python3 "/Users/nikolai/Desktop/study-python-fastapi/lesson 1/Hello_world.py"
+   89  git --version
+   90  man ls
+   91  ды
+   92  ls
+   93  cd Downloads
+   94  ls
+   95  cd ~
+   96  cd /
+   97  ls
+   98  cd ~
+   99  cd Desktop
+  100  cd ..
+  101  cd Desktop
+  102  cd lesson 23
+  103  cd lesson23
+  104  cd lesson32
+  105  pwd
+  106  cd nikolai
+  107  cd /Users/nikolai
+  108  pwd
+  109  ls
+  110  cd Desktop
+  111  cd lesson32
+  112  mkdir
+  113  mkdir TestFolder1
+  114  mkdir TestF21
+  115  touch file1
+  116  touch file1.txt
+  117  vim file1
+  118  nano file1.txt
+  119  nano file1.txt
+  120  cat file1.txt
+  121  nano file1.txt
+  122  clear
+  123  clear
+  124  cd Desktop
+  125  clear
+  126  cd lesson32
+  127  cp file1.txt
+  128  ls
+  129  cd Desktop
+  130  ls
+  131  cd HW_10
+  132  ls
+  133  -c && rm ~/.bash_history
+  134  celar-c && rm ~/.bash_history
+  135  clear
+  136  git config --global user.name "Mykola Karavaiev"
+  137  git config --global user.email kkolya59@gmail.com
+  138  git status
+  139  git config --global user.name "Mykola Karavaiev"
+  140  git config --global user.email kkolya59@gmail.com
+  141  git clone https://github.com/YiakudZa/HW_10.git
+  142  git status
+  143  cd HW_10
+  144  git status
+  145  touch text_ignore.txt
+  146  ls
+  147  nano .gitignore
+  148  git status
+  149  git add text_ignore.txt
+  150  git status
+  151  git add .gitignore
+  152  git status
+  153  git commit -m "Додано новий файл text_ignore.txt"eee
+  154  ls
+  155  touch main_test.txt
+  156  ls
+  157  git add main_test.txt
+  158  git commit -m "Доданий новий файл main_test.txt"
+  159  git status
+  160  ls
+  161  git checkout -b develop
+  162  touchdevelop_test.txt
+  163  touch develop_test.txt
+  164  ls
+  165  git add develop_test.txt
+  166  git commit -m "Створена нова гілка плюс файл develop_test.txt"
+  167  nano delop_test.txt
+  168  git status
+  169  ls
+  170  rm delop_test.txt
+  171  ls
+  172  nano develop_test.txt
+  173  git status
+  174  git add develop_test.txt
+  175  git commit -m
+  176  git status
+  177  git commit -m "New changes"
+  178  git checkout -b main
+  179  git checkout main
+  180  git branch
+  181  git merge develop
+  182  git status
+  183  git log
